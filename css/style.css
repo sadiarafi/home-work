@@ -1,0 +1,22 @@
+
+.contact-container {
+	background-image: url(../images/flower.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+position: relative;
+}
+
+
+
+  /*****.menu-container{
+	background:black;
+}
+
+.menu{background: black;}
+ul{}
+ul li{list-style: none;
+float:left;
+padding: 10px 20px;}
+ul li a{ text-transform: uppercase;color: #fff; text-decoration: none;display: block; }
+a:hover{background: white;
+color:black;}
